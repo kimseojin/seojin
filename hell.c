@@ -7,6 +7,7 @@ void mian()
 	printf("Where is subway station?");
 	printf("The end");
 	printf("It's time to go home");
+	printf("I want to go bathroom");
 
 }
 
