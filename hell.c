@@ -5,6 +5,8 @@ void mian()
 	printf("TGI  Friday");
 	printf("I want to sleep");
 	printf("Where is subway station?");
+	printf("The end");
+	printf("It's time to go home");
 
 }
 
