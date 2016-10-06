@@ -8,6 +8,7 @@ void mian()
 	printf("The end");
 	printf("It's time to go home");
 	printf("I want to go bathroom");
+	printf("Change");
 
 }
 
