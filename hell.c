@@ -9,6 +9,6 @@ void mian()
 	printf("It's time to go home");
 	printf("I want to go bathroom");
 	printf("Change");
-
+	printf("It's me!");
 }
 
